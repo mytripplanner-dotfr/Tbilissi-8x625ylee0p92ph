@@ -1,0 +1,217 @@
+{
+  "pays": "Géorgie",
+  "drapeau": "🇬🇪",
+  "symbole": "🍇",
+  "titre": "Tbilissi: Évasion Relaxante entre Bains et Vieille Ville",
+  "budget_total": "660€/pers",
+  "duree": "4 jours",
+  "temps_vol": "7h30 (depuis Paris, France)",
+  "escale": "1",
+  "jours": [
+    {
+      "jour": 1,
+      "symbole": "🛬",
+      "titre": "Arrivée et Premiers Pas dans la Vieille Ville",
+      "legende": "Après votre vol, installez-vous confortablement et laissez-vous charmer par l'atmosphère unique de la vieille ville de Tbilissi. Une balade douce pour s'imprégner de l'histoire et des couleurs locales, prélude à une aventure relaxante.",
+      "lieu": "Tbilissi",
+      "activites": [
+        "<strong>🛬</strong>: Arrivée à l'aéroport international de Tbilissi (TBS) et transfert vers votre hôtel. Profitez du trajet pour admirer les premiers paysages.",
+        "<strong>🛏️</strong>: Installation à l'hôtel. Prenez le temps de vous rafraîchir et de vous détendre après le voyage.",
+        "<strong>🚶‍♂️</strong>: Balade relaxante dans le Vieux Tbilissi. Flânez dans les ruelles pavées, découvrez les maisons colorées aux balcons sculptés et imprégnez-vous de l'ambiance historique. Dîner dans un restaurant traditionnel pour goûter aux saveurs géorgiennes."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Vieux Tbilissi, Tbilissi",
+          "categorie": "Quartier historique",
+          "coords": { "lat": 41.6908, "lng": 44.805 }
+        },
+        {
+          "nom_recherche": "Place de la Liberté, Tbilissi",
+          "categorie": "Place",
+          "coords": { "lat": 41.6934, "lng": 44.7928 }
+        }
+      ],
+      "illustration": "jour1.jpg",
+      "encarts": [
+        {
+          "symbole": "ℹ️",
+          "titre": "À savoir",
+          "texte": "Le centre-ville de Tbilissi est très agréable à explorer à pied. Prévoyez des chaussures confortables pour les pavés."
+        }
+      ]
+    },
+    {
+      "jour": 2,
+      "symbole": "♨️",
+      "titre": "Détente aux Bains de Soufre et Vues Panoramiques",
+      "legende": "Plongez dans l'histoire et la détente avec une visite aux célèbres bains de soufre, puis admirez la ville depuis les hauteurs de la forteresse de Narikala. Une journée équilibrée entre bien-être et découvertes visuelles.",
+      "lieu": "Tbilissi",
+      "activites": [
+        "<strong>♨️</strong>: Matinée aux Bains de Soufre d'Abanotubani. Offrez-vous un moment de pure relaxation dans ces bains historiques, réputés pour leurs vertus thérapeutiques. Choisissez un bain public ou une salle privée pour une expérience plus intime.",
+        "<strong>🚠</strong>: Montée en téléphérique vers la Forteresse de Narikala. Profitez d'une vue imprenable sur la ville, la rivière Mtkvari et les environs. Explorez les ruines de cette ancienne forteresse et admirez la statue de la Mère de la Géorgie.",
+        "<strong>🚶‍♀️</strong>: Promenade le long du Pont de la Paix et dans le Parc Rike. Ce pont moderne contraste avec l'architecture ancienne et offre de belles perspectives. Le parc est idéal pour une balade tranquille."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Bains de soufre d'Abanotubani, Tbilissi",
+          "categorie": "Bains",
+          "coords": { "lat": 41.6874, "lng": 44.8091 }
+        },
+        {
+          "nom_recherche": "Forteresse de Narikala, Tbilissi",
+          "categorie": "Forteresse",
+          "coords": { "lat": 41.6883, "lng": 44.8078 }
+        },
+        {
+          "nom_recherche": "Mère de la Géorgie, Tbilissi",
+          "categorie": "Statue",
+          "coords": { "lat": 41.6896, "lng": 44.8062 }
+        },
+        {
+          "nom_recherche": "Pont de la Paix, Tbilissi",
+          "categorie": "Pont",
+          "coords": { "lat": 41.6946, "lng": 44.8052 }
+        },
+        {
+          "nom_recherche": "Parc Rike, Tbilissi",
+          "categorie": "Parc",
+          "coords": { "lat": 41.6953, "lng": 44.8066 }
+        }
+      ],
+      "illustration": "jour2.jpg",
+      "encarts": [
+        {
+          "symbole": "💡",
+          "titre": "Conseil Bains",
+          "texte": "Pensez à réserver votre salle privée aux bains de soufre à l'avance, surtout le week-end, pour éviter l'attente."
+        }
+      ]
+    },
+    {
+      "jour": 3,
+      "symbole": "🛍️",
+      "titre": "Culture, Marché et Hauteurs de la Ville",
+      "legende": "Explorez le marché éclectique du Pont Sec pour des trésors inattendus, puis plongez dans l'élégance de l'Avenue Roustavéli avant de prendre de la hauteur pour une vue imprenable sur Tbilissi depuis le Mont Mtatsminda.",
+      "lieu": "Tbilissi",
+      "activites": [
+        "<strong>🛍️</strong>: Visite du Marché du Pont Sec (Dry Bridge Market). Ce marché aux puces en plein air est un véritable musée à ciel ouvert où vous trouverez antiquités, œuvres d'art et souvenirs uniques. Idéal pour une balade curieuse.",
+        "<strong>🚶‍♂️</strong>: Flânerie sur l'Avenue Roustavéli. Admirez l'architecture impressionnante, les théâtres et les musées le long de cette artère principale de Tbilissi. Profitez d'un café en terrasse.",
+        "<strong>⛰️</strong>: Ascension en funiculaire au Mont Mtatsminda. Atteignez le parc Mtatsminda pour des vues panoramiques spectaculaires sur toute la ville. Le parc offre également des attractions douces et un cadre verdoyant pour se détendre."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Marché du Pont Sec, Tbilissi",
+          "categorie": "Marché aux puces",
+          "coords": { "lat": 41.701, "lng": 44.798 }
+        },
+        {
+          "nom_recherche": "Avenue Roustavéli, Tbilissi",
+          "categorie": "Avenue principale",
+          "coords": { "lat": 41.7005, "lng": 44.7925 }
+        },
+        {
+          "nom_recherche": "Parc Mtatsminda, Tbilissi",
+          "categorie": "Parc d'attractions et point de vue",
+          "coords": { "lat": 41.696, "lng": 44.777 }
+        }
+      ],
+      "illustration": "jour3.jpg",
+      "encarts": [
+        {
+          "symbole": "🖼️",
+          "titre": "Trésors cachés",
+          "texte": "Le marché du Pont Sec est parfait pour dénicher des souvenirs originaux et des œuvres d'art locales à des prix abordables."
+        }
+      ]
+    },
+    {
+      "jour": 4,
+      "symbole": "⛪",
+      "titre": "Spiritualité, Quartiers Historiques et Douceur du Départ",
+      "legende": "Découvrez la grandeur de la Cathédrale Sameba et l'histoire de l'Église de Metekhi, puis explorez le charmant quartier d'Avlabari. Une dernière immersion culturelle avant de préparer votre départ, emportant avec vous des souvenirs paisibles de Tbilissi.",
+      "lieu": "Tbilissi",
+      "activites": [
+        "<strong>⛪</strong>: Visite de la Cathédrale de la Sainte Trinité de Tbilissi (Sameba). Admirez cette imposante cathédrale, l'une des plus grandes églises orthodoxes du monde, et profitez de son atmosphère sereine et de ses jardins.",
+        "<strong>🏛️</strong>: Découverte de l'Église de Metekhi et du quartier d'Avlabari. Située sur une falaise surplombant la rivière, l'église offre une vue magnifique. Explorez ensuite le quartier arménien d'Avlabari, riche en histoire et en petites églises.",
+        "<strong>🎁</strong>: Derniers achats de souvenirs et dîner d'adieu. Profitez de vos dernières heures pour trouver des cadeaux ou simplement savourer un dernier repas géorgien dans un cadre agréable."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Cathédrale de la Sainte Trinité de Tbilissi, Tbilissi",
+          "categorie": "Cathédrale",
+          "coords": { "lat": 41.6976, "lng": 44.816 }
+        },
+        {
+          "nom_recherche": "Église de Metekhi, Tbilissi",
+          "categorie": "Église",
+          "coords": { "lat": 41.692, "lng": 44.808 }
+        },
+        {
+          "nom_recherche": "Quartier d'Avlabari, Tbilissi",
+          "categorie": "Quartier historique",
+          "coords": { "lat": 41.694, "lng": 44.812 }
+        }
+      ],
+      "illustration": "jour4.jpg",
+      "encarts": [
+        {
+          "symbole": "✈️",
+          "titre": "Départ",
+          "texte": "Prévoyez suffisamment de temps pour le transfert vers l'aéroport international de Tbilissi (TBS) pour votre vol retour. Les taxis sont facilement disponibles."
+        }
+      ]
+    }
+  ],
+  "detail_budget": [
+    { "titre": "Budget vol:", "legende": "A partir de 218 €/pers", "symbole": "🛬" },
+    { "titre": "Budget transports:", "legende": "40 €/pers", "symbole": "🚆" },
+    { "titre": "Budget repas:", "legende": "160 €/pers", "symbole": "🥗" },
+    { "titre": "Budget logement:", "legende": "160 €/pers", "symbole": "🛏️" },
+    { "titre": "Budget activités:", "legende": "80 €/pers", "symbole": "🎭" }
+  ],
+  "periodes_ideales": [
+    { "titre": "Mai-Juin", "symbole": "🌸" },
+    { "titre": "Septembre-Octobre", "symbole": "🍂" }
+  ],
+  "infos_pratiques": [
+    { "titre": "La monnaie locale est le Lari Géorgien (GEL). Les cartes de crédit sont acceptées dans la plupart des commerces, mais ayez toujours un peu de liquide.", "symbole": "💳" },
+    { "titre": "Le géorgien est la langue officielle. L'anglais est parlé dans les zones touristiques, mais quelques mots de russe peuvent être utiles.", "symbole": "🗣️" },
+    { "titre": "Le réseau de transports en commun (métro, bus) est efficace et économique. Les taxis sont également abordables, utilisez des applications comme Bolt.", "symbole": "🚌" },
+    { "titre": "Le climat en mai est doux et agréable, avec des températures moyennes entre 15 et 25°C. Prévoyez des vêtements légers et une veste pour les soirées.", "symbole": "☀️" }
+  ],
+  "infos_decallees": [
+    {
+      "symbole": "💡",
+      "titre": "L'origine du nom",
+      "texte": "Le nom \"Tbilissi\" vient du mot géorgien \"tbili\", qui signifie \"chaud\". C'est une référence directe aux sources d'eau chaude sulfureuses qui ont attiré le roi Vakhtang Ier Gorgasali à fonder la ville au 5ème siècle."
+    },
+    {
+      "symbole": "🙃",
+      "titre": "Une ville aux 29 vies",
+      "texte": "Tbilissi a été détruite et reconstruite pas moins de 29 fois au cours de son histoire. Chaque invasion a laissé sa marque, créant un mélange architectural unique qui témoigne de sa résilience et de sa richesse culturelle."
+    }
+  ],
+  "specialites_culinaires": [
+    {
+      "symbole": "🧀",
+      "titre": "Khachapuri",
+      "description": "Le plat national géorgien, un pain au fromage délicieux et réconfortant. Il existe plusieurs variantes régionales, comme l'Adjaruli Khachapuri en forme de bateau avec un œuf et du beurre fondu."
+    },
+    {
+      "symbole": "🥟",
+      "titre": "Khinkali",
+      "description": "De grandes ravioles géorgiennes farcies de viande épicée (porc, bœuf ou agneau), de champignons ou de fromage. On les mange avec les mains, en aspirant le bouillon avant de déguster la farce."
+    },
+    {
+      "symbole": "🍬",
+      "titre": "Churchkhela",
+      "description": "Une confiserie traditionnelle géorgienne en forme de bougie, faite de noix (souvent des noix de Grenoble) enfilées sur une ficelle et trempées dans un jus de raisin épaissi avec de la farine. Un en-cas énergétique et savoureux."
+    }
+  ],
+  "liens_utiles": [
+    { "legende": "Vols", "titre": "Réserve ton vol", "url": "https://www.kayak.fr/flights/CDG-TBS/2026-05-08/2026-05-12", "symbole": "🛬" },
+    { "legende": "Infos officielles et inspirations", "titre": "Tourisme Géorgie", "url": "https://georgia.travel/", "symbole": "📘" },
+    { "legende": "Météo", "titre": "Météo Tbilissi", "url": "https://www.accuweather.com/fr/ge/tbilisi/295212/weather-forecast/295212", "symbole": "🌤️" },
+    { "legende": "Transports locaux", "titre": "Tbilisi Transport", "url": "https://tbilisibus.com/", "symbole": "🚌" }
+  ]
+}
